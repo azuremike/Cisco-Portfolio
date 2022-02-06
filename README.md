@@ -1,5 +1,5 @@
 # Cisco Portfolio
-This repository currently contains four labs. A fifth lab, containing information on how to setup iBGP, is currently in development. All labs are performed on Cisco 4321 routers.
+This repository currently contains five labs. All labs are performed on Cisco 4321 routers.
 
 **Lab 1 Description:** Setup IPv4 OSPF across 5 routers.
 
