@@ -11,6 +11,13 @@ This repository currently contains five labs. All labs are performed on Cisco 43
 
 **Lab 5 Description:** Setup a network of 3 routers running IPv4 & IPv6 OSPF that could send and receive traffic through an iBGP link (running OSPF) to a network of 3 routers running IPv4 & IPv6 EIGRP.
 
+**Lab 6 Description:** Logically divided network traffic using VRF. 
+
+**Lab 7 Description:** Setup AAA and RADIUS to authenticate user access requests on Cisco routers.
+
+**Lab 8 Description:** Contains information on how to setup various AWS cloud computing functions.  
+
+
 PDFs are available in this repository containing complete information about each lab.  
 
 # Personal Information
