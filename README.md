@@ -1,5 +1,5 @@
 # Cisco Portfolio
-All labs are performed on Cisco 4321 routers and Cisco 2960 Switches.
+All labs are performed on Cisco 4321 routers and Cisco 2960 switches.
 
 **Lab 1 Description:** Setup IPv4 OSPF across 5 routers.
 
