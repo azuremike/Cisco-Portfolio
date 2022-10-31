@@ -21,4 +21,4 @@ This repository currently contains five labs. All labs are performed on Cisco 43
 PDFs are available in this repository containing complete information about each lab.  
 
 # Personal Information
-I am 18 years old in Seattle, WA. I am enrolled in a Cisco Networking Course. This course is approximately 10.5 hours a week.
+https://www.linkedin.com/in/mikeazure/
