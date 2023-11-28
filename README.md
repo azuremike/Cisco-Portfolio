@@ -1,5 +1,5 @@
 # Summary
-This repository showcases my achievements during my tenure at the Cisco Networking Academy, including detailed descriptions and replication steps for various network deployments and topologies.
+This repository showcases my achievements during my tenure at the Cisco Networking Academy from September 2020 - June 2022, including detailed descriptions and replication steps for various network deployments and topologies.
 
 Key accomplishments include earning my CCNA certification and implementing a lightweight access point system in Antiguan schools.
 
